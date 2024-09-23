@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently learning.<br>
+A computer science student with a solid foundation in programming, I'm passionate about applying my skills to real-world problems. My experience developing a hospital system and a BMI calculator has sharpened my problem-solving abilities and practical understanding of computer science concepts. I'm also proficient in HTML, CSS, and JavaScript, which gives me a strong base in web development.<br>
 
 
 ## 🌐 Socials:
