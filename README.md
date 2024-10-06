@@ -1,5 +1,9 @@
 # 💫 About Me:
-A computer science student with a solid foundation in programming, I'm passionate about applying my skills to real-world problems. My experience developing a hospital system and a BMI calculator has sharpened my problem-solving abilities and practical understanding of computer science concepts. I'm also proficient in HTML, CSS, and JavaScript, which gives me a strong base in web development.<br>
+👩‍💻 Computer Science Student | Web Developer | Problem Solver
+
+I’m a passionate computer science student with a strong foundation in programming and a focus on solving real-world problems through code. My experience building diverse projects has honed my practical understanding of computer science concepts and deepened my problem-solving skills. With proficiency in HTML, CSS, and JavaScript, I have a solid foundation in web development and am always eager to learn new technologies and tools.
+
+💡 Let's connect and collaborate on impactful projects!<br>
 
 
 ## 🌐 Socials:
