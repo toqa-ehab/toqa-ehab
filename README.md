@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 CS Student | Data A Web Developer | Problem Solver
+👩‍💻 CS Student | Data Analyst | Problem Solver
 
 I’m a passionate computer science student with a strong foundation in programming and a focus on solving real-world problems through code. My experience building diverse projects has honed my practical understanding of computer science concepts and deepened my problem-solving skills. With proficiency in HTML, CSS, and JavaScript, I have a solid foundation in web development and am always eager to learn new technologies and tools.<br>
 
