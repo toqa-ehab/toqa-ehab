@@ -6,21 +6,19 @@
 -  Currently exploring **Generative AI** and building **ML-powered projects** that address real-world challenges.  
 -  Certified in **AI &  Machine Learning**, **Generative AI with Google Cloud (Vertex AI)**, and **AI Essentials**.  
 
----
 
 ## 🔬 Highlights:
 -  Developed a **Heart Disease Prediction Model** using supervised and unsupervised ML.  
 -  Experienced in extracting insights from data using Python libraries.  
 -  Hands-on with **Vertex AI** for designing and deploying ML models.  
 
----
+
 
 ## 🌟 What I’m Excited About:
 - Building **AI-driven projects** with real-world impact.  
 - Creating **data stories and dashboards** that simplify decision-making.  
 - Collaborating on **open-source AI projects** and research initiatives.  
 
----
 
 
 ## 🌐 Socials:
