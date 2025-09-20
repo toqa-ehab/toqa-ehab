@@ -1,17 +1,17 @@
 # Hi, I’m Toqa Ehab 👋  
 
-🚀 Passionate about transforming **data into intelligence** through **Artificial Intelligence and Machine Learning**.  
+ Passionate about transforming **data into intelligence** through **Artificial Intelligence and Machine Learning**.  
 
-🎓 I’m a Computer Science student specializing in **AI, Data Analysis, and Machine Learning**.  
-🌱 Currently exploring **Generative AI** and building **ML-powered projects** that address real-world challenges.  
-🧠 Certified in **AI &  Machine Learning**, **Generative AI with Google Cloud (Vertex AI)**, and **AI Essentials**.  
+ I’m a Computer Science student specializing in **AI, Data Analysis, and Machine Learning**.  
+ Currently exploring **Generative AI** and building **ML-powered projects** that address real-world challenges.  
+ Certified in **AI &  Machine Learning**, **Generative AI with Google Cloud (Vertex AI)**, and **AI Essentials**.  
 
 ---
 
 ## 🔬 Highlights
-- 🫀 Developed a **Heart Disease Prediction Model** using supervised and unsupervised ML.  
-- 📊 Experienced in extracting insights from data using Python libraries.  
-- 🤖 Hands-on with **Vertex AI** for designing and deploying ML models.  
+-  Developed a **Heart Disease Prediction Model** using supervised and unsupervised ML.  
+-  Experienced in extracting insights from data using Python libraries.  
+-  Hands-on with **Vertex AI** for designing and deploying ML models.  
 
 ---
 
@@ -22,8 +22,8 @@
 
 ---
 
-🤝 Open to **internships, research opportunities, and AI collaborations**.  
-✨ I believe every dataset hides a story — my mission is to let it speak.  
+ Open to **internships, research opportunities, and AI collaborations**.  
+ I believe every dataset hides a story — my mission is to let it speak.  
 
 
 ## 🌐 Socials:
