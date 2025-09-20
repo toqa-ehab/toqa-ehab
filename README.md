@@ -1,5 +1,29 @@
-# 💫 About Me:
-Hi, I’m Toqa Ehab 👋<br><br>I’m passionate about turning data into intelligence with Artificial Intelligence and Machine Learning.<br><br>I’m a Computer Science student specializing in Artificial Intelligence, Data Analysis, and Machine Learning. Currently, I’m learning Generative AI and building ML-powered projects that solve real-world problems. I am certified in AI Essentials and Generative AI with Google Cloud (Vertex AI).<br><br><br>Highlights:<br><br>Developed a Heart Disease Prediction Model using supervised and unsupervised ML.<br><br>Skilled in data analysis with Python (NumPy, Pandas, Matplotlib).<br><br>Hands-on experience with Vertex AI for designing and deploying ML models.<br><br><br>What I’m Excited About:<br><br>Building AI-driven projects that impact lives.<br><br>Creating interactive dashboards for data storytelling.<br><br>Collaborating on open-source AI initiatives.
+# Hi, I’m Toqa Ehab 👋  
+
+🚀 Passionate about transforming **data into intelligence** through **Artificial Intelligence and Machine Learning**.  
+
+🎓 I’m a Computer Science student specializing in **AI, Data Analysis, and Machine Learning**.  
+🌱 Currently exploring **Generative AI** and building **ML-powered projects** that address real-world challenges.  
+🧠 Certified in **AI &  Machine Learning**, **Generative AI with Google Cloud (Vertex AI)**, and **AI Essentials**.  
+
+---
+
+## 🔬 Highlights
+- 🫀 Developed a **Heart Disease Prediction Model** using supervised and unsupervised ML.  
+- 📊 Experienced in extracting insights from data using Python libraries.  
+- 🤖 Hands-on with **Vertex AI** for designing and deploying ML models.  
+
+---
+
+## 🌟 What I’m Excited About
+- Building **AI-driven projects** with real-world impact.  
+- Creating **data stories and dashboards** that simplify decision-making.  
+- Collaborating on **open-source AI projects** and research initiatives.  
+
+---
+
+🤝 Open to **internships, research opportunities, and AI collaborations**.  
+✨ I believe every dataset hides a story — my mission is to let it speak.  
 
 
 ## 🌐 Socials:
